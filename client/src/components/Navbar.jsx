@@ -78,7 +78,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>ALTAF.</Logo>
+          <Logo>SHOPIFY</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
